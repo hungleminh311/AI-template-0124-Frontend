@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox.",
+        "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Welcome to Gamble: Revolutionize Your Engineering Ideas!",
+  "subtitle": "Innovate, Experiment, and Develop with Confidence in Our Engineering Sandbox."
+}
